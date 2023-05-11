@@ -13,6 +13,8 @@ if platform == "android":
 
 Builder.load_file("audio_recorder.kv")
 
+# testing..
+
 
 class MyRecorder:
     """ Main class for using a Recorder for Android apps """
